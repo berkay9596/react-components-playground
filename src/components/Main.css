@@ -1,0 +1,8 @@
+.AddonTable {
+  margin: 50px;
+  border-collapse: collapse;
+}
+
+.AddonTable, th, td {
+  border: 1px solid black;
+}

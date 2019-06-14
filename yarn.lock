@@ -7697,6 +7697,11 @@ pretty-format@^24.8.0:
     ansi-styles "^3.2.0"
     react-is "^16.8.4"
 
+primereact@3.1.4:
+  version "3.1.4"
+  resolved "https://registry.yarnpkg.com/primereact/-/primereact-3.1.4.tgz#74e57417fc9f42c6955c8705315b0f9f464060d8"
+  integrity sha512-Ctte8/NawPh/Na4jPU/BiSG0Zn9lWvF/Y+IBAYwqmRpVlgRlQt03zDhIQt35BFJFv7NEqIkrdI2XRu7awOaCvw==
+
 prism-react-renderer@^0.1.0:
   version "0.1.6"
   resolved "https://registry.yarnpkg.com/prism-react-renderer/-/prism-react-renderer-0.1.6.tgz#c9216baa234fab1c234209fcdaf0cd23a01c50a9"

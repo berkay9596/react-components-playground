@@ -1,12 +1,12 @@
 import React from 'react';
 import './App.css';
-import FiddleComponent from "./components/FiddleComponent";
+import Main from "./components/Main";
 
 function App() {
   return (
     <div className="App">
-      React Components Playground
-      <FiddleComponent code="<div>this is my div</div>" ></FiddleComponent>
+        <h1>React Components Playground</h1>
+        <Main></Main>
     </div>
   );
 }

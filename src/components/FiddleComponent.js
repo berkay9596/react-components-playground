@@ -6,7 +6,7 @@ import {
     LivePreview
 } from 'react-live';
 
-class MyComponent extends Component {
+class FiddleComponent extends Component {
     render() {
         return (
             <div>
@@ -20,4 +20,4 @@ class MyComponent extends Component {
     }
 }
 
-export default MyComponent;
+export default FiddleComponent;
