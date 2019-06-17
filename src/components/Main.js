@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import './Main.css';
-import FiddleComponent from "./FiddleComponent";
 import addonData from '../data/addonData';
 import Addon1 from "./Addon1";
 import Addon2 from "./Addon2";
