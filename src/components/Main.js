@@ -11,6 +11,9 @@ import Addon7 from "./Addon7";
 import Addon8 from "./Addon8";
 import Addon9 from "./Addon9";
 import Addon10 from "./Addon10";
+import Addon11 from "./Addon11";
+import Addon12 from "./Addon12";
+import Addon13 from "./Addon13";
 
 class Main extends Component {
 
@@ -80,6 +83,15 @@ class Main extends Component {
             }
             else if(this.state.selectedAddonId === 10){
                 addonListOrSelectedAddon = <Addon10></Addon10>;
+            }
+            else if(this.state.selectedAddonId === 11){
+                addonListOrSelectedAddon = <Addon11></Addon11>;
+            }
+            else if(this.state.selectedAddonId === 12){
+                addonListOrSelectedAddon = <Addon12></Addon12>;
+            }
+            else if(this.state.selectedAddonId === 13){
+                addonListOrSelectedAddon = <Addon13></Addon13>;
             }
         }
         else{
