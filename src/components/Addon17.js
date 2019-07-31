@@ -16,7 +16,8 @@ class Addon17 extends Component {
                 <FiddleComponent code='<div className="progress">
   <div className="progress-bar bg-warning w-25" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
 </div>' scope={scope} ></FiddleComponent>
-       
+
+                <FiddleComponent code='<div>Furkan Caglayan</div>'></FiddleComponent>
 
 
             </div>
