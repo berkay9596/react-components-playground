@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import FiddleComponent from "./FiddleComponent";
 import Jumbotron from 'react-bootstrap/Jumbotron';
-import Button from 'react-bootstrap/Button'
+import Button from 'react-bootstrap/Button';
 
 const scope = {Jumbotron, Button};
 
@@ -17,7 +17,7 @@ class Addon25 extends Component {
                     <p>
                         <Button variant="primary" href="#/learnmore">Learn more</Button>
                     </p>
-                 </Jumbotron></div>'scope = {scope}></FiddleComponent>
+                 </Jumbotron></div>'scope={scope}></FiddleComponent>
 
                 Fatih Saracoglu
             </div>
