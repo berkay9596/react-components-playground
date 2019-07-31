@@ -12,4 +12,4 @@ class Addon25 extends Component {
     }
 }
 
-export default Addon17;
+export default Addon25;
