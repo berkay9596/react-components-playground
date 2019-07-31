@@ -6,6 +6,7 @@ class Addon16 extends Component {
         return (
             <div>
                 <FiddleComponent code="<div>this is Addon16</div>" ></FiddleComponent>
+				fatih yazici
             </div>
         );
     }
