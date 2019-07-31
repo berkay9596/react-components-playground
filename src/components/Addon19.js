@@ -7,8 +7,8 @@ const scope = {ProgressBar}
 class Addon19 extends Component {
     render() {
         return (
-            <h1>Furkan TAN</h1>
             <div>
+                <h1>Furkan TAN</h1>
                 <FiddleComponent code='
                     <div>
                         <ProgressBar variant="success" now={40} />
