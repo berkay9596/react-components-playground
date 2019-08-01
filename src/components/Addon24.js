@@ -21,7 +21,7 @@ class Addon24 extends Component {
                 return (
                     <div>
                         <FiddleComponent code='<Container>
-                               Reyyan Sarıkaya
+                               F. Reyyan Sarıkaya
                             <Row>
                                 <Col xs={6} md={4}>
                                     <Image src="https://upload.wikimedia.org/wikipedia/commons/d/d4/N.Tesla.jpg" roundedCircle />
