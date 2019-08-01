@@ -12,4 +12,4 @@ class Addon32 extends Component {
     }
 }
 
-export default Addon17;
+export default Addon32;
