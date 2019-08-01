@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import FiddleComponent from "./FiddleComponent";
 import Badge from 'react-bootstrap/Badge';
 
-class Addon17 extends Component {
+class Addon37 extends Component {
     render() {
         return (
             <div>
