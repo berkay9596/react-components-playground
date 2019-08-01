@@ -25,7 +25,7 @@ class Addon14 extends Component {
                 Click me!
             </Accordion.Toggle>
             </Card.Header>
-            <Accordion.Collapse eventKey="1"><Card.Body>Hello! m another body</Card.Body></Accordion.Collapse>
+            <Accordion.Collapse eventKey="1"><Card.Body>Hello! I m another body</Card.Body></Accordion.Collapse>
         </Card>
         </Accordion>' scope={scope} ></FiddleComponent>
 
