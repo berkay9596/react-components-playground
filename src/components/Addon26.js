@@ -8,7 +8,8 @@ class Addon26 extends Component {
         return (
             <div>
                 <FiddleComponent code='<div>this is Addon26 
-                		<Button variant="outline-secondary">Secondary</Button></div>' scope={scope}></FiddleComponent>
+                		<Button variant="outline-secondary">Secondary</Button></div>' scope={scope}>
+                		</FiddleComponent>
             </div>
         );
     }
