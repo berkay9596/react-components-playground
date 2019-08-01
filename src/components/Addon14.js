@@ -6,6 +6,7 @@ class Addon14 extends Component {
         return (
             <div>
                 <FiddleComponent code="<div>this is Addon14</div>" ></FiddleComponent>
+                Bilge
             </div>
         );
     }
