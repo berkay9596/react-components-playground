@@ -40,6 +40,12 @@ import Addon36 from "./Addon36";
 import Addon37 from "./Addon37";
 import Addon38 from "./Addon38";
 import Addon39 from "./Addon39";
+import Addon40 from "./Addon40";
+import Addon41 from "./Addon41";
+import Addon42 from "./Addon42";
+import Addon43 from "./Addon43";
+import Addon44 from "./Addon44";
+import Addon45 from "./Addon45";
 
 class Main extends Component {
 
@@ -196,6 +202,24 @@ class Main extends Component {
             }
             else if(this.state.selectedAddonId === 39){
                 addonListOrSelectedAddon = <Addon39></Addon39>;
+            }
+            else if(this.state.selectedAddonId === 40){
+                addonListOrSelectedAddon = <Addon40></Addon40>;
+            }
+            else if(this.state.selectedAddonId === 41){
+                addonListOrSelectedAddon = <Addon41></Addon41>;
+            }
+            else if(this.state.selectedAddonId === 42){
+                addonListOrSelectedAddon = <Addon42></Addon42>;
+            }
+            else if(this.state.selectedAddonId === 43){
+                addonListOrSelectedAddon = <Addon43></Addon43>;
+            }
+            else if(this.state.selectedAddonId === 44){
+                addonListOrSelectedAddon = <Addon44></Addon44>;
+            }
+            else if(this.state.selectedAddonId === 45){
+                addonListOrSelectedAddon = <Addon45></Addon45>;
             }
         }
         else{

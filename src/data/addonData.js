@@ -193,6 +193,36 @@ const addonList = [
         isim: "addon39",
         id: 39,
         url: "https://react-bootstrap.github.io/components/alerts/"
+    },
+    {
+        isim: "addon40",
+        id: 40,
+        url: "https://react-bootstrap.github.io/components/alerts/"
+    },
+    {
+        isim: "addon41",
+        id: 41,
+        url: "https://react-bootstrap.github.io/components/alerts/"
+    },
+    {
+        isim: "addon42",
+        id: 42,
+        url: "https://react-bootstrap.github.io/components/alerts/"
+    },
+    {
+        isim: "addon43",
+        id: 43,
+        url: "https://react-bootstrap.github.io/components/alerts/"
+    },
+    {
+        isim: "addon44",
+        id: 44,
+        url: "https://react-bootstrap.github.io/components/alerts/"
+    },
+    {
+        isim: "addon45",
+        id: 45,
+        url: "https://react-bootstrap.github.io/components/alerts/"
     }
 
 ];
