@@ -6,6 +6,7 @@ class Addon43 extends Component {
         return (
             <div>
                 <FiddleComponent code="<div>this is Addon43</div>" ></FiddleComponent>
+            gddg
             </div>
         );
     }
