@@ -9,7 +9,7 @@ class Addon43 extends Component {
             <button className="btn">Left</button>
             <button className="btn">Middle</button>
             <button className="btn">Right</button>
-            <Button variant='outline-warning'>Warning</Button>
+
             </div>
         );
     }
